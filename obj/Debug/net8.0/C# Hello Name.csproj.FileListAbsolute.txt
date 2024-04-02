@@ -1,0 +1,33 @@
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\bin\Debug\net8.0\appsettings.json
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\bin\Debug\net8.0\C# Hello Name.exe
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\bin\Debug\net8.0\C# Hello Name.deps.json
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\bin\Debug\net8.0\C# Hello Name.runtimeconfig.json
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\bin\Debug\net8.0\C# Hello Name.dll
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\bin\Debug\net8.0\C# Hello Name.pdb
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\C# Hello Name.csproj.AssemblyReference.cache
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\C# Hello Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\C# Hello Name.AssemblyInfoInputs.cache
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\C# Hello Name.AssemblyInfo.cs
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\C# Hello Name.csproj.CoreCompileInputs.cache
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\C# Hello Name.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\C# Hello Name.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\staticwebassets\msbuild.C# Hello Name.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\staticwebassets\msbuild.build.C# Hello Name.props
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.C# Hello Name.props
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.C# Hello Name.props
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\scopedcss\bundle\C# Hello Name.styles.css
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\C# Hello.ED4B2C1D.Up2Date
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\C# Hello Name.dll
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\refint\C# Hello Name.dll
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\C# Hello Name.pdb
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\C# Hello Name.genruntimeconfig.cache
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\ref\C# Hello Name.dll
