@@ -31,3 +31,4 @@ C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\refin
 C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\C# Hello Name.pdb
 C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\C# Hello Name.genruntimeconfig.cache
 C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\ref\C# Hello Name.dll
+C:\Users\silve\Documents\Academy Level 2\C#\C# Hello Name\obj\Debug\net8.0\C# Hello Name.sourcelink.json
